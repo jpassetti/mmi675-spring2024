@@ -7,3 +7,6 @@
 
 ### 2: [PHP Basics](02)
 * Session 2 (Mon 01/22): PHP Basics
+
+### 3: [Arrays](03)
+* Session 3 (Wed 01/24): Arrays
