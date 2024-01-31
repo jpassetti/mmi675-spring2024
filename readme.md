@@ -10,3 +10,9 @@
 
 ### 3: [Arrays](03)
 * Session 3 (Wed 01/24): Arrays
+
+### 4: Quiz
+* Session 4 (Mon 01/29): Basic PHP Quiz
+
+### 5: [Styling](05)
+* Session 5 (Wed 01/31): Styling
