@@ -1,0 +1,30 @@
+html, body, h1, h2, h3, h4, h5, h6, p, ul, li {
+    margin: 0;
+    padding: 0;
+    font: inherit;
+}
+
+body {
+    background-color: yellow;
+}
+header {
+    background-color: orange;
+}
+.logo {
+    width: 100px;
+    height: auto;
+}
+main {
+    background-color: white;
+}
+h3 {
+    color: green;
+    font-family: Arial;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: gray;
+}

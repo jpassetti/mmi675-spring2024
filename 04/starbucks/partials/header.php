@@ -9,13 +9,11 @@
 </head>
 <body>
     <header>
-        <a href="index.php">
-            <img 
-                src="images/branding/starbucks-logo.svg"
-                alt="Starbucks logo" 
-                class="logo"
-            />
-        </a>
+        <img 
+            src="images/branding/starbucks-logo.svg"
+            alt="Starbucks logo" 
+            class="logo"
+        />
         <nav>
             <ul>
                 <li>
@@ -25,9 +23,6 @@
                     <a href="products.php">Products</a>
                 </li>
                 <li>
-                    <a href="locations.php">Locations</a>
-                </li>
-                <li>
                     <a href="about.php">About</a>
                 </li>
                 <li>
@@ -35,10 +30,4 @@
                 </li>
             </ul>
         </nav>
-        <button class="btn-ui">
-            <img 
-                src="images/icons/menu.svg"
-                alt="Menu icon"
-            />
-        </button>
     </header>

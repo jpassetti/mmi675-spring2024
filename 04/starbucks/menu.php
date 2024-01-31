@@ -17,6 +17,7 @@ $coffees = array(
         "price" => 4.75,
         "description" => "A delicious latte made with our special blend of coffee."
     ),
+
 );
 ?>
 
