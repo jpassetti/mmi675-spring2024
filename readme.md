@@ -25,3 +25,7 @@
 ### 6: [Databases and MySQL](06)
 
 - Session 6 (Mon 02/05): In this session, we will learn about databases and MySQL.
+
+### 7: [Admin page](07)
+
+- Session 7 (Wed 02/07): In this session, we will review databases, MySQL and PHP. Then we'll learn how to create a PHP admin page and add products to our database with PHP.
