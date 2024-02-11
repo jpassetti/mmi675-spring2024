@@ -130,12 +130,12 @@ Please don't memorize these functions. You can always look them up when you need
 - **mysqli_connect()**: A function used to connect to a MySQL database using PHP.
 - **mysqli_query()**: A function used to query a MySQL database using PHP.
 - **fetch_assoc()**: A function used to fetch a result row as an associative array.
-- **<table>**: An HTML element used to display data in a tabular format.
-- **<thead>**: An HTML element used to define the header of a table.
-- **<tbody>**: An HTML element used to define the body of a table.
-- **<tr>**: An HTML element used to define a row in a table.
-- **<th>**: An HTML element used to define a header cell in a table.
-- **<td>**: An HTML element used to define a standard cell in a table.
+- **table**: An HTML element used to display data in a tabular format.
+- **thead**: An HTML element used to define the header of a table.
+- **tbody**: An HTML element used to define the body of a table.
+- **tr**: An HTML element used to define a row in a table.
+- **th**: An HTML element used to define a header cell in a table.
+- **td**: An HTML element used to define a standard cell in a table.
 
 ### Conclusion
 
