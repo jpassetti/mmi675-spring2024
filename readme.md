@@ -30,6 +30,7 @@
 
 - Session 7 (Wed 02/07): In this session, we will review databases, MySQL and PHP. Then we'll learn how to create a PHP admin page and add products to our database with PHP.
 
-### 7: [Review](07_review)
+### 7: [Review: Databases, MySQL, and PHP](07_review)
 
-- Video:
+- [Notes](07_review/readme.md)
+- [Video](https://youtu.be/6hBqJuBSftI)

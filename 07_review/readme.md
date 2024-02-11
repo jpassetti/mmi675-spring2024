@@ -2,6 +2,10 @@
 
 # Review: Databases, MySQL, and PHP
 
+Please watch the video below to review and prepare for the quiz.
+
+[https://youtu.be/6hBqJuBSftI](https://www.youtube.com/watch?v=6hBqJuBSftI)
+
 ### Objectives
 
 - Understand the basics of databases and MySQL
