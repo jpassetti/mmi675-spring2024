@@ -34,3 +34,7 @@
 
 - [Notes](07_review/readme.md)
 - [Video](https://youtu.be/6hBqJuBSftI)
+
+### 8: [Adding a Product to the Database](08)
+
+- Session 8 (Mon 02/12): In this session, we will learn how to add a new product to a database using a PHP admin page.
