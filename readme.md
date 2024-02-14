@@ -38,3 +38,7 @@
 ### 8: [Adding a Product to the Database](08)
 
 - Session 8 (Mon 02/12): In this session, we will learn how to add a new product to a database using a PHP admin page.
+
+### 9: [Adding a Product to the Database, Part 2](09)
+
+- Session 9 (Wed 02/14): In this session, we will continue learning how to add a new product to a database using a PHP admin page, specifically how to handle the form submission in PHP.
