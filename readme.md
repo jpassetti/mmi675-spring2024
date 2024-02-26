@@ -42,3 +42,11 @@
 ### 9: [Adding a Product to the Database, Part 2](09)
 
 - Session 9 (Wed 02/14): In this session, we will continue learning how to add a new product to a database using a PHP admin page, specifically how to handle the form submission in PHP.
+
+### 10: [Editing a Product in the Database](10)
+
+- Session 10 (Wed 02/21): In this session, we will learn how to edit a product in the database using a PHP admin page.
+
+### 12: [Deleting a Product in the Database](12)
+
+- Session 12 (Mon 02/26): In this session, we will learn how to delete a product from the database using a PHP admin page, as well as style the form, table and buttons.
