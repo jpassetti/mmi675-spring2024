@@ -50,3 +50,7 @@
 ### 12: [Deleting a Product in the Database](12)
 
 - Session 12 (Mon 02/26): In this session, we will learn how to delete a product from the database using a PHP admin page, as well as style the form, table and buttons.
+
+### 13: [BEM styling](13)
+
+- Session 13 (Wed 02/28): In this session, we will review BEM (Block, Element, Modifier) class naming conventions, styling tables, and continue styling HTML forms, buttons and typography.
