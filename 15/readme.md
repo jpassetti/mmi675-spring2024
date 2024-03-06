@@ -40,9 +40,12 @@ Features of a post:
 
 The Loop is the PHP code used by Wordpress to display posts. Using The Loop, Wordpress processes each post to be displayed on the current page, and formats it according to how it matches specified criteria within The Loop tags.
 
-### The Loop in action
+### The Loop in action on index.php
 
 ```php
+<?php get_header(); ?>
+
+<main>
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
     <article>
         <h2><?php the_title(); ?></h2>
@@ -50,6 +53,9 @@ The Loop is the PHP code used by Wordpress to display posts. Using The Loop, Wor
 <?php endwhile; else : ?>
     <p><?php _e( 'Sorry, no posts matched your criteria.' ); ?></p>
 <?php endif; ?>
+</main>
+
+<?php get_footer(); ?>
 ```
 
 Translation: If there are posts in the database, while there are posts, loop over each post and display the post title. If there are no posts, display a message.
