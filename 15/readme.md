@@ -108,6 +108,24 @@ Create a new file in your theme directory called `single.php`. This is the templ
 
 Translation: When the Wordpress Loop is used on single.php, it automatically knows to display the content of the single post. `have_posts()` is misleading here, because there is only one post. But it's still used to check if there are posts to display.
 
+### Reflection: Why develop a Wordpress theme from scratch?
+
+- Full control over the design
+- No bloat from pre-built themes
+- Learn how Wordpress works
+- Customize the theme to your needs
+
+As we keep going, I want to highlight our overarching goal: utilizing WordPress not just as a blogging platform, but as a robust Content Management System (CMS). A CMS is essentially a sophisticated tool for managing digital content, and WordPress offers a versatile framework for doing just that.
+
+Our ambition is to harness WordPress to build custom themes from scratch. This will allow us to create tailored digital experiences, reflecting specific design visions and functional requirements. Building a theme from the ground up offers control over the website's appearance, behavior, and content organization, turning WordPress into a powerful engine behind personalized, dynamic websites.
+
+By focusing on WordPress as a CMS, we will eventually explore its capabilities beyond the basics, delving into custom post types, taxonomies, and metadata to manage and present content in innovative ways. This approach positions WordPress as an integral part of our web development toolkit, enabling us to craft unique online platforms with precision and creativity.
+
+In our upcoming classes, we'll break down the process of theme development step-by-step, from initial concept to final implementation. We'll cover the essentials of theme structure, the WordPress Loop, template tags, and how to create specific templates for different types of content.
+
+I encourage you to embrace this challenge with enthusiasm and curiosity. The journey of building a WordPress theme from scratch is not only a technical skill but a pathway to expressing your creative ideas through web design.
+
+
 ### Review
 
 In this session, we:
