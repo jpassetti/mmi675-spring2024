@@ -54,3 +54,7 @@
 ### 13: [BEM styling](13)
 
 - Session 13 (Wed 02/28): In this session, we will review BEM (Block, Element, Modifier) class naming conventions, styling tables, and continue styling HTML forms, buttons and typography.
+
+### 18: [Blog Design](18)
+
+- Session 18 (Mon 4/1): In this session, we will learn about blog design, agile development, review the Wordpress templates to design for, look at examples of great blog design and review project milestones.
